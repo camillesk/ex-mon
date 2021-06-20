@@ -1,6 +1,6 @@
 defmodule ExMon do
   @moduledoc """
-  Documentation for `ExMon`.
+  Main module of the game.
   """
 
   alias ExMon.Player

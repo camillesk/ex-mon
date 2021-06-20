@@ -1,4 +1,8 @@
 defmodule ExMon.Player do
+  @moduledoc """
+  Player Module
+  """
+
   @required_keys [:life, :move_avg, :move_heal, :move_rnd, :name]
   @max_life 100
 
